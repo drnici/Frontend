@@ -1,6 +1,6 @@
 # IDE und Tools
 In diesem Kapitel werden die IDE und genutzte Tools in der Theorie beschrieben, Anleitungen platziert oder auch vereinzelte Aufgaben gestellt.
-<a name="ide"></a>
+
 ## IDE
 Während des Moduls wirst du mit Visual Studio Code arbeiten. Visual Studio Code ist ein kostenloser Codierungseditor, mit dem du schnell mit dem Coden beginnen kanst. Du kannst Visual Studio Code verwenden, um in jeder Programmiersprache zu programmieren, ohne den Editor zu wechseln. Es unterstützt viele Sprachen, darunter sind JavaScript, Angular, Vue und viele mehr. Bei Lernenden von anderen Institutionen musst du deine/n üK-Leiter:in fragen, welche IDE ihr benutzen werdet. 
 https://code.visualstudio.com/
@@ -16,8 +16,6 @@ https://code.visualstudio.com/
     - Material Iconm Theme
     - Path Intellisense
     - Prettier – Code formatter
-
-<a name="git"></a>
 ### Git
 Git ist dir bereits bekannt ein Codeversionierungssystem, welches bei diesem Modul genutzt wird.
 
@@ -25,7 +23,6 @@ Git ist dir bereits bekannt ein Codeversionierungssystem, welches bei diesem Mod
     
     Installiere git unter folgendem Link: https://git-scm.com/. Bei der Installation sind keine Anpassungen notwendig. Du kannst dich einfach durchklicken.
 
-<a name="default-shell"></a>
 #### Default Shell ändern
 Damit git ordentlich ausgeführt und genutzt werden kann, muss in VS-Code die "Default Shell" geändert werden.
 
@@ -39,10 +36,7 @@ Damit git ordentlich ausgeführt und genutzt werden kann, muss in VS-Code die "D
 
 ![asset](../assets/images/hint.png) Sofern Git Bash nicht gewählt werden kann, könnte es daran liegen, dass du die IDE neustarten musst. 
 
-<a name="tools"></a>
 ## Tools
-
-<a name="nodejs"></a>
 ### Node.js
 Node.js ist eine plattformübergreifende Opensource JavaScript runtime, damit du den nötigen Webserver betreiben kannst, die für die Webentwicklung notwendig ist.
 Mit Node können wir später diverse Packages installieren und in unserer Webapplikation brauchen.
@@ -52,7 +46,6 @@ Mit Node können wir später diverse Packages installieren und in unserer Webapp
     Installiere Node.js unter folgendem Link: https://nodejs.org/en/. Verwende die LTS Version, diese werden für die meisten Nutzer empfohlen.
     Bei der Installation sind keine Anpassungen notwendig. Du kannst dich einfach durchklicken. 
 
-<a name="postman"></a>
 ### Postman
 Postman ist eine API Platform um die API des Backends zu testen. Dies hilft dir dabei beispielsweise zu prüfen, ob deine Nutzer die du erstellt hast, auch in der Datenbankdatei korrekt gespeichert wurde.
 
@@ -64,7 +57,6 @@ Postman ist eine API Platform um die API des Backends zu testen. Dies hilft dir 
     File > Settings > General
 
 
-<a name="check"></a>
 ### Überprüfen
 Nun hoffen wir das alle nötigen Installationen erfolgreich ausgeführt wurden.
 

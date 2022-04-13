@@ -1,4 +1,4 @@
-# Exam 3 - Angular
+# Exam 2 - Angular
 ![task1](../assets/images/task.png) - Einzelarbeit<br>
 
 ## Ausgangslage
